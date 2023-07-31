@@ -1,0 +1,1 @@
+a função deve atualizar o status de um produto para “Vendido”.
